@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Spandan Senapati
 
 # Username (this should match the folder name)
 authors:
@@ -10,33 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Sophomore Undergraduate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Indian Institute of Technology Kanpur
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Probabiistic Machine Learning and Deep Learning.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Probabilistic Machine Learning
+- Variational Bayesian Inference
+- Time Series Forecasting
+- Tensor Factorisation
+- Reinforcement Learning
+- Deep Learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
+  - course: Bachelor of Technology in Computer Science and Engineering
+    institution: Indian Institute of Technology
+    year: 2018-Present
+  
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -44,16 +41,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: # For a direct email link, use "mailto:spandans@iitk.ac.in".
+- icon: facebook
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.facebook.com/profile.php?id=100010928107837
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Fellow4
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/spandan_30_/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -69,7 +66,10 @@ user_groups:
 - Researchers
 - Visitors
 ---
+Hi all, I am a Sophomore Undergraduate at Indian Institute of Technology, Kanpur mostly interested in theoritical Probabilistic Machine Learning and Deep Learning.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research work in sophomore year has been focussed on application of Variational Bayesian Inference to tensor based models. Currently I am working on extending the idea of Traffic prediction using Matrix factorisation to Tensor decompositon. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+In summer 19 I explored Probabilistic Machine Learning. My experience with Deep Learning and to some extent Reinforcement Learning in Freshmen year helped me somewhat. I studied different topics such as Conjugacy, Latent Variable Models, Expectation Maximization Algorithm, Approximate Inference(i.e. Markov Chain Monte Carlo Stimulation and Variational Bayesian Inference), Gibbs Sampling etc. I mostly worked on Variational Inference by exploring advances in the field such as Stochastic VI, Black Box VI etc. Further I explored Stochastic Variational Inference by going through research papers on the same.
+
+I am interested in exploring Theoritical ML more rigorously mostly because I am quite fascinated by the multitude of Maths governing Probabilistic Machine Learning. Although I don't have much exposure to the same but I am quite hopeful to see myself working on the same in a couple of years from now.
