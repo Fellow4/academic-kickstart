@@ -10,6 +10,8 @@ lastmod: 2019-09-08T21:50:19+05:30
 featured: false
 draft: false
 
+external_link : "https://github.com/Fellow4/Reinforcement-Learning"
+
 # Featured image
 # To use, add an image named featured.jpg/png to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
