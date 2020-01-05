@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: # For a direct email link, use "mailto:spandans@iitk.ac.in".
+  link: "mailto:spandans@iitk.ac.in"
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/profile.php?id=100010928107837
@@ -77,7 +77,7 @@ user_groups:
 ---
 Hi all, I am a Sophomore Undergraduate at Indian Institute of Technology, Kanpur mostly interested in theoritical Probabilistic Machine Learning and Deep Learning.
 
-My research work in sophomore year has been focussed on application of Variational Bayesian Inference to tensor based models. Currently I am working on extending the idea of Traffic prediction using Matrix factorisation to Tensor decompositon. 
+My research work in sophomore year has been focused on application of Variational Bayesian Inference to tensor based models. Currently I am working on extending the idea of Traffic prediction using Matrix factorisation to Tensor decompositon. 
 
 In summer 19 I explored Probabilistic Machine Learning. My experience with Deep Learning and to some extent Reinforcement Learning in Freshmen year helped me somewhat. I studied different topics such as Conjugacy, Latent Variable Models, Expectation Maximization Algorithm, Approximate Inference(i.e. Markov Chain Monte Carlo Stimulation and Variational Bayesian Inference), Gibbs Sampling etc. I mostly worked on Variational Inference by exploring advances in the field such as Stochastic VI, Black Box VI etc. Further I explored Stochastic Variational Inference by going through research papers on the same.
 
