@@ -27,4 +27,4 @@ image:
 #   Otherwise, set projects = [].
 projects: []
 ---
-A summer project under Programming Club IITK where I studied,understood and implemented alorithms on graphs such as BFS,DFS,Djikstra,Kruskal. In the field of Game Theory explored ad implemented Sprague Grundy Theorem, Grundy Numbers, Game of Nim etc. And miscellaneaous topics such as Knuth-Morris-Pratt(KMP),Huffman Coding and Disjoint Set Union.
+This project has been removed by the author.
