@@ -27,4 +27,4 @@ image:
 #   Otherwise, set projects = [].
 projects: []
 ---
-Explored basics of Reinforcement Learning such as Markov Decision Processes, Model Free Prediction, Model-Free Control, Value Function Approximation, Policy Gradient Methods etc and understood how RL was applied in Atari Games.
+<!-- Explored t basics of Reinforcement Learning such as Markov Decision Processes, Model Free Prediction, Model-Free Control, Value Function Approximation, Policy Gradient Methods etc and understood how RL was applied in Atari Games. -->
