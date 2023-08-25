@@ -10,29 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: Sophomore Undergraduate
+role: CS Ph.D. student
 
 # Organizations/Affiliations
 organizations:
-- name: Indian Institute of Technology Kanpur
-  url: ""
+- name: University of Southern California, Los Angeles
+  url: "https://www.usc.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Probabiistic Machine Learning and Deep Learning.
+bio: CS Ph.D. student at University of Southern California, Los Angeles
 
 interests:
-- Probabilistic Machine Learning
-- Variational Bayesian Inference
-- Time Series Forecasting
-- Tensor Factorisation
-- Reinforcement Learning
-- Deep Learning
+- Learning Theory
+- Online Learning
+- Optimization
 
 education:
   courses:
   - course: Bachelor of Technology in Computer Science and Engineering
-    institution: Indian Institute of Technology
-    year: 2018-Present
+    institution: Indian Institute of Technology Kanpur
+    year: 2018-2022
   
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -41,16 +38,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:spandans@iitk.ac.in"
+  link: "mailto:spandansenapatiphyatgmaildotcom"
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/profile.php?id=100010928107837
 - icon: github
   icon_pack: fab
   link: https://github.com/Fellow4
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/spandan_30_/
+# - icon: instagram
+#   icon_pack: fab
+#   link: https://www.instagram.com/spandan_30_/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/spandan-senapati-0760a8192/
@@ -75,10 +72,13 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Hi all, I am a Sophomore Undergraduate at Indian Institute of Technology, Kanpur mostly interested in theoritical Probabilistic Machine Learning and Deep Learning.
 
-My research work in sophomore year has been focused on application of Variational Bayesian Inference to tensor based models. Currently I am working on extending the idea of Traffic prediction using Matrix factorisation to Tensor decompositon. 
+I am a CS Ph.D. student in the [Theory group](https://viterbi-web.usc.edu/~cstheory/) at the [University of Southern California](https://www.usc.edu/). I am broadly interested in online learning and optimization, particularly online convex optimization and learning in games. 
 
-In summer 19 I explored Probabilistic Machine Learning. My experience with Deep Learning and to some extent Reinforcement Learning in Freshmen year helped me somewhat. I studied different topics such as Conjugacy, Latent Variable Models, Expectation Maximization Algorithm, Approximate Inference(i.e. Markov Chain Monte Carlo Stimulation and Variational Bayesian Inference), Gibbs Sampling etc. I mostly worked on Variational Inference by exploring advances in the field such as Stochastic VI, Black Box VI etc. Further I explored Stochastic Variational Inference by going through research papers on the same.
+Previously, I was a research assistant in the [Signal Processing in Networking (SPiN) lab](https://home.iitk.ac.in/~ketan/spinlab/index.html), [Indian Institute of Technology Kanpur (IITK)](https://www.iitk.ac.in/), advised by [Prof. Ketan Rajawat](https://home.iitk.ac.in/~ketan/). I am quite privileged to have collaborated with  [Prof. Rahul Vaze](https://www.tcs.tifr.res.in/~vaze/) ([Tata Institute of Fundamental Research](https://www.tifr.res.in/)) during this period.
 
-I am interested in exploring Theoritical ML more rigorously mostly because I am quite fascinated by the multitude of Maths governing Probabilistic Machine Learning. Although I don't have much exposure to the same but I am quite hopeful to see myself working on the same in a couple of years from now.
+Before that, I graduated from IITK with a Bachelor's degree in Computer Science. I am very fortunate to have been supervised by [Prof. Ketan Rajawat](https://home.iitk.ac.in/~ketan/) during my undergraduate.
+
+I am always open to discussions on theoretical CS and math. As an aside, I am quite passionate about music and have been playing fingerstyle guitar for a while.
+
+
