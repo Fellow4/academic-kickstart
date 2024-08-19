@@ -73,9 +73,9 @@ user_groups:
 - Visitors
 ---
 
-I am a CS Ph.D. student in the [Theory group](https://viterbi-web.usc.edu/~cstheory/) at the [University of Southern California](https://www.usc.edu/). I am broadly interested in online learning and optimization, particularly online convex optimization and learning in games. 
+I am a first year CS Ph.D. student in the [Theory group](https://viterbi-web.usc.edu/~cstheory/) at the [University of Southern California](https://www.usc.edu/), where I am fortunate to be advised by [Prof. Haipeng Luo](https://haipeng-luo.net/) and [Prof. Vatsal Sharan](https://vatsalsharan.github.io/). I am broadly interested in online learning and statistical learning theory. 
 
-Previously, I was a research assistant in the [Signal Processing in Networking (SPiN) lab](https://home.iitk.ac.in/~ketan/spinlab/index.html), [Indian Institute of Technology Kanpur (IITK)](https://www.iitk.ac.in/), advised by [Prof. Ketan Rajawat](https://home.iitk.ac.in/~ketan/). I am quite privileged to have collaborated with  [Prof. Rahul Vaze](https://www.tcs.tifr.res.in/~vaze/) ([Tata Institute of Fundamental Research](https://www.tifr.res.in/)) during this period.
+Previously, I was a research assistant in the [Signal Processing in Networking (SPiN) lab](https://home.iitk.ac.in/~ketan/spinlab/index.html), [Indian Institute of Technology Kanpur (IITK)](https://www.iitk.ac.in/), where I was advised by [Prof. Ketan Rajawat](https://home.iitk.ac.in/~ketan/). I am quite privileged to have collaborated with  [Prof. Rahul Vaze](https://www.tcs.tifr.res.in/~vaze/) ([Tata Institute of Fundamental Research](https://www.tifr.res.in/)) during this period.
 
 Before that, I graduated from IITK with a Bachelor's degree in Computer Science. I am very fortunate to have been supervised by [Prof. Ketan Rajawat](https://home.iitk.ac.in/~ketan/) during my undergraduate.
 
